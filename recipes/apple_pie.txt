@@ -4,5 +4,6 @@ Pastry
 10 Apples
 Sugar
 Cinnamin
+Plums
 
 Temp 100c

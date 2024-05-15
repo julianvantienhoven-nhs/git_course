@@ -1,7 +1,7 @@
 Apple Pie
 
 Pastry
-10 Apples
+15 Apples
 Sugar
 Cinnamin
 Plums
